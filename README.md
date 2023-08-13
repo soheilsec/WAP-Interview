@@ -204,6 +204,8 @@ AddType application/x-httpd-php .shell
 از پیلودهای xxe برای فرخوانی dtd یا  Document Type Definition استفاده می کنم تا ببینم اطلاعات حساس را به من می دهد یا ایا می توانم دستکاریش بکنم یا نه.
 
 16. آپلودر را چگونه تست می کنید؟ روش های تست بایپس آپلودرتان را شرح دهید.
+
+
 File extension change
 Shell.php1
 Shell.jpg.php
