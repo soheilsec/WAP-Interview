@@ -1,7 +1,7 @@
 
 <div align="left" markdown="1">
 
-[** گزارش  مشکلات و ارسال مطلب **](https://github.com/soheilsec/WAP-Interview/issues)
+[**گزارش  مشکلات و ارسال مطلب**](https://github.com/soheilsec/WAP-Interview/issues)
 </div>
 
 
@@ -241,8 +241,6 @@ AddType application/x-httpd-php .shell
 
 ### 2. حمله Blind SQLI و NOSQL Injection چیست؟ روش های شناسایی و اکسپلویت آن را نام ببرید.
 
----  
-
 حملات injection از نوع blind و nosql سطح پیچیده تری از sqli هستند معمولا برای تست blind از Boolean blind استفاده میکنم و همچنین اگر time based جواب بدهد از آن استفاده می کنم.
 
 حمله Nosql injection بخطر اینکه ساختار دیتابیس فرق دارد نحوه اکسپلویت ها با هم فرق دارد و از پیلود های دیگر برای تست آن باید استفاده کنم.
@@ -383,6 +381,3 @@ AddType application/x-httpd-php .shell
 ---
 
 </div>
-
-
-A very <span style='color: red;'>long</span> sentence.
